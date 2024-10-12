@@ -30,5 +30,12 @@ class B{
 	public static void main(String args[]) {
 		
 		Basic.f1();
+		System.out.println("f3");
+
+		System.out.println("f9");
+		System.out.println("f7");
+
+
+		
 	}
 }
