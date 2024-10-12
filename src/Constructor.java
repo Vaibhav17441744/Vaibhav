@@ -27,7 +27,8 @@ public class Constructor {
          System.out.println(name);
          System.out.println("hi");
          System.out.println("bye");
-         
+         System.out.println("hi");
+         System.out.println("bye");
 	}
 
 }
