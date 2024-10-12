@@ -25,6 +25,9 @@ public class Constructor {
          Constructor s1=new Constructor();
          System.out.println(roll_no);
          System.out.println(name);
+         System.out.println("hi");
+         System.out.println("bye");
+         
 	}
 
 }
